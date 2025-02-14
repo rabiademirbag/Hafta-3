@@ -1,0 +1,18 @@
+:root{
+    --bgcolor: #f4f2ee;
+}
+body{
+    background-color: var(--bgcolor);
+}
+.img pos{
+    position: absolute;
+    top: 50;
+}
+.span span{
+    font-size: 12px;
+}
+.span ul{
+    font-size: 14px;
+}
+
+  
